@@ -25,7 +25,7 @@ const Navbar = () => {
       className={`h-20 ${
         changeTheme
           ? ` bg-transparent`
-          : `bg-[#DB002F] transition-all ease-out duration-75 `
+          : `bg-green-800 transition-all ease-out duration-75 `
       } sticky top-0 z-20   `}
       onMouseLeave={() => setisOpen(0)}
     >

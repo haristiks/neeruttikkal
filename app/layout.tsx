@@ -10,7 +10,7 @@ const rajdhani = Rajdhani({
 
 export const metadata: Metadata = {
   title:
-    " Zig Zag: Malappuram's Leading Digital Marketing & Branding Agency | Branding & Digital Marketing Services",
+    " Neeruttikkal: A Small Place in Kuzhimanna Panchayath of Malappuram district | Branding & Digital Marketing Services",
   description:
     " Elevate your brand with Zig Zag, a trusted Malappuram digital marketing agency. We offer comprehensive branding & digital marketing services to help you succeed globally    ",
   alternates: {

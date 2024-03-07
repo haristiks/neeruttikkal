@@ -1,11 +1,11 @@
 import React from "react";
 import Image from "next/image";
-import landpage from "@/public/digital-market-agencies-malappuram-log.png";
+import landpage from "@/public/neeruttikkal-on-map.png";
 
 const LandPage = () => {
   return (
     <>
-      <div className=" md:px-5 px-20 md:h-[91vh] flex sm:flex-col-reverse  items-center bg-[#DB002F]  sticky top-20 -z-10">
+      <div className=" md:px-5 px-20 md:h-[91vh] flex sm:flex-col-reverse  items-center bg-green-800  sticky top-20 -z-10">
         <div className="flex-1   flex items-center sm:items-start  ">
           <div className=" w-fit   pl-[10%] sm:pl-0 text-white ">
             <h1 className="text-5xl sm:leading-10 sm:text-3xl md:text-4xl text-left font-thin font-sans  ">
